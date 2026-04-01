@@ -59,4 +59,4 @@ Install APK (Android 10+)
 Grant required permissions
 Tap Start Monitoring
 Minimize app (home button)
-Play emergency sound → Popup appears
+Play emergency sound → Popup appears 🚨
