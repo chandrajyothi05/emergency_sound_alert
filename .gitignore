@@ -1,0 +1,8 @@
+.gradle/
+build/
+*.apk
+*.zip
+*.mp3
+*.wav
+__pycache__/
+.venv/
