@@ -4,6 +4,7 @@
 The Android frontend of the Emergency Sound Detection system is developed using Java and is designed to provide a responsive and user-friendly interface. The application consists of two main screens: MainActivity, which functions as the monitoring dashboard, and AlertPopupActivity, which displays a full-screen emergency alert over the home or lock screen when a threat is detected.
 
 🖥️ Screens
+
 🔹 MainActivity (Dashboard)
 
 The MainActivity serves as the primary interface for users to monitor and control the detection system. It displays real-time detection results and allows users to start or stop the background monitoring service.
@@ -53,8 +54,5 @@ The system is designed to avoid duplicate vibrations by handling all vibration l
 
 To run the application, install the APK on a device running Android 10 or above and grant all required permissions. Start the monitoring process from the dashboard and minimize the app if needed. When an emergency sound is detected, a full-screen popup alert will appear automatically.
 
-✨ This version is:
-
-Clean and easy to read
-More professional (like a project submission)
+project submission)
 Perfect for GitHub + viva + recruiters
