@@ -4,5 +4,13 @@ build/
 *.zip
 *.mp3
 *.wav
+
 __pycache__/
 .venv/
+
+*.npz
+dataset/
+*.h5
+*.pt
+*.pkl
+.env
