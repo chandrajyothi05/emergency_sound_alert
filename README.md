@@ -123,5 +123,8 @@ Focus areas:
 
 ## Authors
 
-* Your Name
-* Friend’s Name
+* Chandrajyothi Parambi Biju
+* Lida Francis
+* Maria Elizabeth Tomy
+* Maria G Peter
+  
